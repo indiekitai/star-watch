@@ -1,0 +1,30 @@
+{
+  "name": "@indiekitai/star-watch",
+  "version": "0.1.0",
+  "description": "Monitor your GitHub starred repositories for archival status",
+  "main": "src/index.js",
+  "bin": {
+    "star-watch": "./src/cli.js"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node src/cli.js check --limit 10"
+  },
+  "keywords": [
+    "github",
+    "stars",
+    "archive",
+    "monitor",
+    "cli"
+  ],
+  "author": "IndieKit",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indiekitai/star-watch"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
