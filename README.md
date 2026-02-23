@@ -9,9 +9,9 @@ Monitor your GitHub starred repositories for archival status.
 ## Installation
 
 ```bash
-npm install -g star-watch
+npm install -g @indiekitai/star-watch
 # or
-npx star-watch
+npx @indiekitai/star-watch
 ```
 
 ## Usage
