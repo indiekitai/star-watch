@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README.zh-CN.md)
+
 # star-watch 🌟👀
 
 Monitor your GitHub starred repositories for archival status.
